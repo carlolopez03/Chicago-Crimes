@@ -9,7 +9,7 @@
 ![image](https://github.com/carlolopez03/Project-3/assets/139676444/28e62b76-6087-4229-a514-e2117d391a51)
 I was asked to look for the top 3 holidays with the largest amount of crimes for the local newspaper. With our model we are able to see the top 3 holidays are New Year's, Independence Day, and Labors Day.
 
-## Crime Forecast
+### Crime Forecast
 ![image](https://github.com/carlolopez03/Project-3/assets/139676444/308722b3-10ad-466a-b045-c45ec9451ad8)
 
 ### Chicago Crime Dashboard
